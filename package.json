@@ -1,15 +1,24 @@
 {
-   "name": "prepcourse",
-   "version": "3.0.0",
-   "description": "",
-   "main": "index.js",
-   "scripts": {
-      "test": "jest --collectCoverage=false"
-   },
-   "author": "Henry",
-   "license": "ISC",
-   "dependencies": {
-      "eslint": "^8.28.0",
-      "jest": "^29.3.1"
-   }
+  "name": "prepcourse",
+  "version": "3.0.0",
+  "description": "![HenryLogo](./Assets//logoBannerHenry.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collectCoverage=false"
+  },
+  "author": "Henry",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.28.0",
+    "jest": "^29.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerCNZ/fe-ct-prepcourse-fs.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/FerCNZ/fe-ct-prepcourse-fs/issues"
+  },
+  "homepage": "https://github.com/FerCNZ/fe-ct-prepcourse-fs#readme"
 }
